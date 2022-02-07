@@ -1,5 +1,5 @@
 {
-  "name": "sof-clone-amand33p",
+  "name": "sof-clon",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
@@ -7,7 +7,7 @@
     "start": "node index.js",
     "dev": "nodemon index.js"
   },
-  "author": "Amandeep",
+  "author": "Ariba",
   "license": "ISC",
   "dependencies": {
     "apollo-server": "^2.18.2",
